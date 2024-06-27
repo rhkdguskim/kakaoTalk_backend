@@ -21,7 +21,7 @@ export class AuthController {
   constructor(private authService: AuthService,
     ) {}
 
-  @Post("login")
+  @Post("signin")
   @ApiOperation({
     summary: "사용자 로그인 API",
     description: "사용자가 로그인을 한다.",
