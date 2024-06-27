@@ -15,9 +15,9 @@ jwt:
   secret: 'bigkwangs'
 
 redis:
-  host : 'redis-19046.c245.us-east-1-3.ec2.cloud.redislabs.com'
-  port: 19046
-  password : 'ZmbYRRRGHNb7G4O9ew2VG9gm5P2SNI7u'
+  host : 'redis-14407.c92.us-east-1-3.ec2.redns.redis-cloud.com'
+  port: 14407
+  password : 'CgSs7dr3weCaHe2Q7gyx5JbDjoPw3Jvf'
   ttl : 60
 
 kakao:
